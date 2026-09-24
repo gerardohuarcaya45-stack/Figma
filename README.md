@@ -1,7 +1,7 @@
 
-  # Continue Instructions
+  # Big FIve
 
-  This is a code bundle for Continue Instructions. The original project is available at https://www.figma.com/design/KZWEFwIDc8dSsznxn1JS5f/Continue-Instructions.
+  This is a code bundle for Big FIve. The original project is available at https://www.figma.com/design/KZWEFwIDc8dSsznxn1JS5f/Big-FIve.
 
   ## Running the code
 
